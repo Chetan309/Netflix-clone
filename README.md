@@ -29,5 +29,5 @@ This is a responsive Netflix clone built using HTML and CSS. The project replica
 
 For any inquiries or contributions, reach out via:
 
-- **GitHub:** [YourUsername](https://github.com/Chetan309)
-- **Email:** [youremail@example.com](mailto:chetan309044@gmail.com)
+- **GitHub:** [Chetan309](https://github.com/Chetan309)
+- **Email:** [chetan309044@gmail.com](mailto:chetan309044@gmail.com)
